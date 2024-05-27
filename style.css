@@ -1,0 +1,113 @@
+.clearfix {clear: both}
+
+
+
+.menu {
+    background-color:#36494E;
+    border: solid #36494E 1px;
+}
+
+.menu li{
+    display: inline-block;
+    margin: auto;
+}
+.menu ul {
+    list-style: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.menu ul a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.menu ul p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 32pt;
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+.sfondo{
+    background-color:#597081;
+
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    list-style: none;
+    font-size: 24pt;
+}
+
+.title li{
+    margin: 30px;
+}
+
+.title a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.link h1{
+    text-align: center;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 24pt;  
+}
+
+
+
+
+.spiegazione{
+    font-family: cursive;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 14pt;
+    margin-left: 55px;
+    margin-right: 15px
+    
+}
+
+
+.img_dx img{
+    width: 15%;
+    height: 15%;
+    object-fit: cover;
+    background-color: azure;
+    width: 500px;
+    height: 225px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 25px;
+}
+
+
+.img_sx img {
+    width: 15%;
+    height: 15%;
+    object-fit: cover;
+    background-color: azure;
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 25px;
+}
